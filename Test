@@ -5,12 +5,12 @@
 <head>
 	<!-- Generally speaking, the head part of an html document is for information about this document. the body is for the content you want to show. -->
 	<title>HELLO MY NAME IS HTML</title>
-	<!-- the "title" tag is the thing that is displayed on the tab, and it's what a bookmark to this page will be named by default. ->
+	<!-- the "title" tag is the thing that is displayed on the tab, and it's what a bookmark to this page will be named by default. -->
 </head>
 <body>
 	<!-- The Body. This is the sweet spot. This is where our content will go! Whatever we want to display. -->
 	<h1>Welcome to my Webpage!</h1>
-	<p>This is my first webpage! I created it during IAP 2015.</p>
-	<p>This is my second paragraph. So much things.</p>
+<p>This is my first webpage! I created it during IAP 2015.</p>
+<p>This is my second paragraph. So much things.</p>
 </body>
 </html>
